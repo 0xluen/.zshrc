@@ -34,3 +34,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 alias unreal='/home/rootx/Unreal/Linux_Unreal_Engine_5.2.1/Engine/Binaries/Linux/UnrealEditor'
+alias todo='obsidian'
